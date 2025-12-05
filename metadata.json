@@ -1,0 +1,8 @@
+{
+  "name": "MakanMate: AI Voice Restaurant Finder",
+  "description": "Discover Malaysia's best eats with voice-powered search and real-time AI conversation.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
